@@ -1,0 +1,5 @@
+﻿  Palindrom_2.cpp
+D:\Programming\Coursera\Yandex_cpp\2_week\Palindrom\Palindrom\Palindrom_2\Palindrom_2.cpp(26,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Coursera\Yandex_cpp\2_week\Palindrom\Palindrom\Palindrom_2\Palindrom_2.cpp(30,31): warning C4018: '>=': signed/unsigned mismatch
+D:\Programming\Coursera\Yandex_cpp\2_week\Palindrom\Palindrom\Palindrom_2\Palindrom_2.cpp(48,23): warning C4018: '<': signed/unsigned mismatch
+  Palindrom_2.vcxproj -> D:\Programming\Coursera\Yandex_cpp\2_week\Palindrom\Palindrom\Palindrom_2\Debug\Palindrom_2.exe
